@@ -9,7 +9,7 @@ class StudentConstants {
   int age = 26;
   double length = 1.78;
   String firstLetter = "B";
-  bool isContinue = true;
+  bool isContinue = false;
 }
 
 class ProductInfo {
