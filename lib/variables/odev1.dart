@@ -12,6 +12,7 @@ void main(List<String> args) {
   debugPrint("enlem : ${Constants.enlem}");
   debugPrint("etkinlik günü : ${Constants.etkinlikGunu}");
   debugPrint("faks : ${Constants.faks}");
+
   debugPrint("fatura tarihi : ${Constants.faturaTarihi}");
   debugPrint("yüzde zam miktarı  : ${Constants.yuzdeZamMiktari.toString()}");
   debugPrint("ürün miktarı : ${Constants.urunMiktari.toString()}");
